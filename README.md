@@ -1,2 +1,2 @@
 # Learning.ARG
-Auther-AbdurRehman
+Author-AbdurRehman
